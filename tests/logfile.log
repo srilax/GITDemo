@@ -1,0 +1,34 @@
+2021-05-30 20:23:04,653 : INFO : test_e2e : Obtaining the product details
+2021-05-30 20:23:04,699 : INFO : test_e2e : iphone X
+2021-05-30 20:23:04,722 : INFO : test_e2e : Samsung Note 8
+2021-05-30 20:23:04,744 : INFO : test_e2e : Nokia Edge
+2021-05-30 20:23:04,770 : INFO : test_e2e : Blackberry
+2021-05-30 20:23:05,228 : INFO : test_e2e : Entering 'In' as input for countries filed.
+2021-05-30 20:23:10,948 : INFO : test_e2e : Text received from the app:×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-05-30 20:28:52,341 : INFO : test_formSubmission : first name isSri
+2021-05-30 20:28:53,424 : INFO : test_formSubmission : first name isKeisha
+2021-05-30 20:28:53,424 : INFO : test_formSubmission : first name isKeisha
+2021-06-03 11:13:42,419 : INFO : test_formSubmission : first name isSri
+2021-06-03 11:13:44,361 : INFO : test_formSubmission : first name isKeisha
+2021-06-03 11:13:44,361 : INFO : test_formSubmission : first name isKeisha
+2021-06-03 11:13:57,036 : INFO : test_e2e : Obtaining the product details
+2021-06-03 11:13:57,121 : INFO : test_e2e : iphone X
+2021-06-03 11:13:57,166 : INFO : test_e2e : Samsung Note 8
+2021-06-03 11:13:57,204 : INFO : test_e2e : Nokia Edge
+2021-06-03 11:13:57,245 : INFO : test_e2e : Blackberry
+2021-06-03 11:13:57,829 : INFO : test_e2e : Entering 'In' as input for countries filed.
+2021-06-03 11:14:03,642 : INFO : test_e2e : Text received from the app:×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-06-03 11:17:14,677 : INFO : test_formSubmission : first name isSri
+2021-06-03 11:17:16,709 : INFO : test_formSubmission : first name isKeisha
+2021-06-03 11:17:16,709 : INFO : test_formSubmission : first name isKeisha
+2021-06-03 11:17:29,958 : INFO : test_e2e : Obtaining the product details
+2021-06-03 11:17:30,031 : INFO : test_e2e : iphone X
+2021-06-03 11:17:30,064 : INFO : test_e2e : Samsung Note 8
+2021-06-03 11:17:30,105 : INFO : test_e2e : Nokia Edge
+2021-06-03 11:17:30,142 : INFO : test_e2e : Blackberry
+2021-06-03 11:17:30,696 : INFO : test_e2e : Entering 'In' as input for countries filed.
+2021-06-03 11:17:36,493 : INFO : test_e2e : Text received from the app:×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-06-07 20:16:15,760 : INFO : test_formSubmission : first name isSri
